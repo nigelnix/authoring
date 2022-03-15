@@ -30,7 +30,7 @@
 | Fries | € 2.50 |
 | Burger | € 3.50 |
 
-[click on this link](#foo)
+
 
 
 
